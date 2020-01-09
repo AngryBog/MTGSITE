@@ -63,9 +63,11 @@ p {
 
 img {
 	max-width: 100%;
-	position:absolute;
-	left:50%;
-	margin-left:-50%;
+
+position:absolute;
+height:auto;
+left:50%;
+margin-left:-50%;
 }
 
 input:focus,
